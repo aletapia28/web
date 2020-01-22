@@ -1,0 +1,138 @@
+h1 {
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.subTareas{
+    background-color: white;
+    width: 100%;
+}
+
+.TAB {
+    color: black;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    border-top: 0;
+}
+
+.TAB table {
+    /* background: rgb(87, 24, 69); */
+    background: #492736;
+    color: white;
+    display: block;
+}
+
+.TAB td {
+    width: 100%;
+    border-collapse: separate;
+    padding: 10px;
+}
+.video{
+    text-align: center;
+}
+#titulo {
+    font-size: 30px;
+}
+
+#Nombre {
+    font-size: 15px;
+    display: ruby-base-container;
+}
+
+.tareas {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Nombre {
+    color: black;
+    padding: 10px;
+    text-align: right;
+}
+
+h2 {
+    background: rgb(219, 202, 202);
+    color: navy;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.barra-lateral {
+    background: #492736;
+    position: fixed;
+    height: 100%;
+    width: 150px;
+    margin: auto;
+    left: 0;
+    top: 80px;
+}
+
+.barra-lateral ul li {
+    color: white;
+    padding-bottom: 35px;
+    text-align: left;
+}
+
+.barra-lateral li img {
+    height: 30px;
+    width: 30px;
+    display: block
+}
+
+p {
+    font-family: helvetica;
+    margin-top: 10px;
+}
+
+ul {
+    font-family: helvetica;
+    list-style-type: none;
+}
+
+table {
+    overflow-wrap: break-word;
+    background: white;
+}
+
+td {
+    width: 25%;
+}
+
+th {
+    font-size: 25px;
+}
+
+.foto {
+    width: 175px;
+    height: 200px;
+}
+
+.foto-Encab {
+    width: 75px;
+    height: 75px;
+    ;
+    align-content: flex-end;
+}
+
+.imagenLenguajes {
+    width: 350px;
+    height: 200px;
+}
+
+.negro {
+    color: blue;
+}
+
+body {
+    padding-top: 100px;
+    padding-left: 200px;
+    font-family: Helvetica, sans-serif;
+}
